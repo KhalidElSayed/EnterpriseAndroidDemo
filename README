@@ -1,0 +1,25 @@
+
+These are the artifacts from my talk at AnDevConIV
+
+To create an eclipse project for the code, simply copy the files:
+
+$ROOT/tools/ide/eclipse/project
+
+and
+
+$ROOT/tools/ide/eclipse/classpath
+
+to the root ($ROOT) of the project, named .project and .classpath, respectively.
+
+Then use File > Import > Existing Project into Workspace
+
+The file EnterpriseAndroid.html is the talk slide deck.
+
+A recording of the talk can be found at:
+
+https://dl.dropbox.com/u/53126147/AnDevConIV_Meike.mov
+
+
+Please send comments, questions and errata to:
+  blake.meike+andevconiv@gmail.com
+
